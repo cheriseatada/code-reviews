@@ -1,6 +1,6 @@
 #Mad Libs Generator Project
 verb_1 = input("Enter a verb of choice, and press enter:")
-adj_1 = input("Enter a adjective of choice, and press enter:")
+code_review_time = input("Enter a adjective of choice, and press enter:")
 verb_2 = input("Enter second verb of choice, and press enter:")
 body_part = input("Enter a body part name of choice, and press enter:")
 adverb = input("Enter an adverb of choice, and press enter:")
